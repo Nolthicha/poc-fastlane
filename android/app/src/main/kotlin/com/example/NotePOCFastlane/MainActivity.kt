@@ -1,4 +1,4 @@
-package com.example.poc_fastlane
+package com.example.NotePOCFastlane
 
 import io.flutter.embedding.android.FlutterActivity
 
